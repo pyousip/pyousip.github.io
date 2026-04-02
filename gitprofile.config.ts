@@ -117,16 +117,16 @@ const CONFIG = {
   ],
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'Joseph A. Gregori High School',
+      degree: 'High School Deploma',
+      from: '2018',
+      to: '2022',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'California State University Stanislaus',
+      degree: 'B.S Biological Sciences',
+      from: '2022',
+      to: '2027',
     },
   ],
   publications: [
