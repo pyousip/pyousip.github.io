@@ -115,7 +115,7 @@ const CONFIG = {
       link: 'https://example.com',
     },
   ],
-  education: [
+  educations: [
     {
       institution: 'Joseph A. Gregori High School',
       degree: 'High School Deploma',
