@@ -57,12 +57,12 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'tvanlaar',
+    linkedin: '',
     x: '',
     mastodon: '',
     researchGate: '',
     facebook: '',
-    instagram: '',
+    instagram: 'phillipyousip',
     reddit: '',
     threads: '',
     youtube: '', 
@@ -74,9 +74,9 @@ const CONFIG = {
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://tvanlaar.github.io',
+    website: 'https://pyousip.github.io',
     phone: '',
-    email: 'tvanlaar@csustan.edu',
+    email: 'pyousip@csustan.edu',
   },
   resume: {
     fileUrl:
