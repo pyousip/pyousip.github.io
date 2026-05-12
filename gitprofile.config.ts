@@ -57,7 +57,7 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: '',
+    linkedin: 'Phillip Yousip',
     x: '',
     mastodon: '',
     researchGate: '',
@@ -93,11 +93,11 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'Doctor's Medical Center ED',
+      position: 'Medical Scribe',
+      from: 'January 2025',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: '',
     },
     {
       company: 'Company Name',
@@ -117,15 +117,15 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Joseph A. Gregori High School',
-      degree: 'High School Deploma',
-      from: '2018',
-      to: '2022',
+      institution: 'Modesto Junior College',
+      degree: 'GE Degree',
+      from: '2022',
+      to: '2024',
     },
     {
       institution: 'California State University Stanislaus',
       degree: 'B.S Biological Sciences',
-      from: '2022',
+      from: '2024',
       to: '2027',
     },
   ],
