@@ -100,11 +100,11 @@ const CONFIG = {
       companyLink: '',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'Kaiser Permanente Emergency Department',
+      position: 'Volunteer',
+      from: '2026',
+      to: '2027',
+      companyLink: '',
     },
   ],
   certifications: [
