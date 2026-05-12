@@ -93,7 +93,7 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Doctor's Medical Center ED',
+      company: 'Doctors Medical Center Modesto Emergency Department',
       position: 'Medical Scribe',
       from: 'January 2025',
       to: 'Present',
